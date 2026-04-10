@@ -9,7 +9,7 @@ A simple and interactive web application that demonstrates dynamic pagination fu
 - ⚡ Fast and lightweight
 
 ## Live Demo
-Check out the live demo here: [https://iam269.github.io/Dynamic-Pagination/](https://iam269.github.io/Dynamic-Pagination/)
+Check out the live demo here: [https://itsiamdev.github.io/Dynamic-Pagination/](https://itsiamdev.github.io/Dynamic-Pagination/)
 
 ## How to Use
 1. Open `index.html` in your web browser
